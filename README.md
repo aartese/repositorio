@@ -36,6 +36,6 @@ Lenguaje de Programación, Java. Editor / Compilador, Eclipse. Documentación, G
 Artese Ariel. Barrozo Ariel. Lopez Joaquin. Julian Medina.
 
 ## Diagrama de Clases.
-
+Esta en el Directorio de github.
 ## Conclusión
 Un trabajo práctico muy útil para poder aprender la carga de vectores con objetos, y las distintas acciones que se pueden realizar cuando se lo recorre con un objetivo particular ejemplo ordenándolo, buscando datos, eliminar y demás. También queremos remarcar la importancia de la utilización del Junit para realizar los Test y la manera de como el grupo termino de pulir el código a través del Test. Creemos que el ejercicio favorece mucho en cuanto a fortalecer los conceptos teóricos mediante la práctica codificada en un lenguaje en el cual a la mayoría no resultaba ajeno. Creemos que complementa bien el difícil proceso de maduración que afrontamos cuando pasamos de una lógica estructurada a una logia de objetos, este ejercicio creemos que no ayudo mucho para empezar a transitar este dificultoso pero gustoso cambio
