@@ -33,7 +33,7 @@ Las pruebas de Junit pudieron hacerse correctamente salvo la de la elección de 
 Lenguaje de Programación, Java. Editor / Compilador, Eclipse. Documentación, Github.
 
 ## Itegrantes. 
-Artese Ariel. Barrozo Ariel. Lopez Medina. Julian Medina.
+Artese Ariel. Barrozo Ariel. Lopez Joaquin. Julian Medina.
 
 ## Diagrama de Clases.
 
